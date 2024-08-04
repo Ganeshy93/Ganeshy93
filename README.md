@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Ganesh! 
-<h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
+<h1 align="center">**Hi 👋, I'm GANESH!**</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;UI%2FUX+Designer;Always+learning+new+things" alt="Typing SVG" />
 </div>
