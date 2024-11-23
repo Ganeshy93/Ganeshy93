@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Ganesh!</h1>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;UI%2FUX+Designer;Always+learning+new+things" alt="Typing SVG" />
-</div>
+
 <!-- Rest of the content remains the same -->
 <div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
